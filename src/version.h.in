@@ -1,0 +1,6 @@
+#ifndef __HELLO_WORLD_VERSION_H__
+#define __HELLO_WORLD_VERSION_H__
+
+#define _VERSION "<versoin>"
+
+#endif
