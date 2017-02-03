@@ -1,6 +1,11 @@
 Nice to meet you. - 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 user2 fix bug1.2
 >>>>>>> a26296e... user2 fix bug 1.2
+=======
+
+user1 fix bug1.1
+>>>>>>> 3a7d35c... user1 fix bug 1.1
